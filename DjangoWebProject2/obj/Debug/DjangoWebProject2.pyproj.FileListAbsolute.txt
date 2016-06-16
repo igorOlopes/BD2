@@ -1,0 +1,13 @@
+c:\users\vanessa\documents\visual studio 2015\Projects\bd2\DjangoWebProject2\bin\Microsoft.PythonTools.WebRole.dll
+c:\users\vanessa\documents\visual studio 2015\Projects\bd2\DjangoWebProject2\obj\Debug\attach_server.py
+c:\users\vanessa\documents\visual studio 2015\Projects\bd2\DjangoWebProject2\obj\Debug\visualstudio_py_debugger.py
+c:\users\vanessa\documents\visual studio 2015\Projects\bd2\DjangoWebProject2\obj\Debug\visualstudio_py_repl.py
+c:\users\vanessa\documents\visual studio 2015\Projects\bd2\DjangoWebProject2\obj\Debug\visualstudio_py_util.py
+c:\users\vanessa\documents\visual studio 2015\Projects\bd2\DjangoWebProject2\obj\Debug\__init__.py
+c:\users\vanessa\documents\visual studio 2015\Projects\bd2\DjangoWebProject2\obj\Debug\__main__.py
+c:\users\vanessa\documents\visual studio 2015\Projects\bd2\DjangoWebProject2\bin\AzureSetup.cfg
+c:\users\vanessa\documents\visual studio 2015\Projects\bd2\DjangoWebProject2\bin\Microsoft.PythonTools.AzureSetup.exe
+c:\users\vanessa\documents\visual studio 2015\Projects\bd2\DjangoWebProject2\bin\Microsoft.PythonTools.AzureSetup.exe.config
+c:\users\vanessa\documents\visual studio 2015\Projects\bd2\DjangoWebProject2\bin\wfastcgi.py
+c:\users\vanessa\documents\visual studio 2015\Projects\bd2\DjangoWebProject2\obj\Debug\web.config
+c:\users\vanessa\documents\visual studio 2015\Projects\bd2\DjangoWebProject2\obj\Debug\web.debug.config
